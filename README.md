@@ -63,7 +63,7 @@
             
             <button onclick="appendNumber('0')">0</button>
             <button onclick="appendOperator('.')">.</button>
-            <button onclick="calculate(remove)">=</button>
+            <button onclick="calculate(apagar)">=</button>
             <button onclick="appendOperator('+')">+</button>
         </div>
     </div>
